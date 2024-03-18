@@ -7,6 +7,9 @@ This project was carried out as part of the Data Warehouse course and aims to de
 - There must be aggregated facts or snapshots with at least one semi-additive measure.
 - There must be at least 4 dimensions, one of which temporal, and some of them are common to both kinds of facts.
 
+## Introduction
+This project aims to design a data warehouse, implement it, and exemplify its use, applied to Goodreads’ reality, the chosen dataset. Our data is composed of five different datasets, as it will be better discussed further, and contains several information about books, ratings and tags added to books. Goodreads is an American social cataloging website that features information about a multitude of books, together with their reviews from online users. This website allows the users to track their reading process, set reading goals, and participate in reading challenges. Although our data is not as extensive, nowadays, Goodreads has over 100 million members and contains more than 3 billion books.
+
 ## Credits
 This project was developed as a group:
 
