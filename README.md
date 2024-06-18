@@ -15,4 +15,5 @@ This project was developed as a group:
 
 - [Ian Karkles](https://github.com/iankarkles)
 - [Henrique Ribeiro](https://github.com/henriquebr31)
+- [Paulo Portela](https://github.com/PPortela00)
 - Vitor Pereira
